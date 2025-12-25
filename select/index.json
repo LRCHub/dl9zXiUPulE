@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "あの頃へ",
+  "base_artist": "安全地帯",
+  "createdAt": "2025-12-25T04:01:50.831813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの頃へ",
+      "artist": "Anzenchitai",
+      "has_synced": true,
+      "path": "select/01_あの頃へ_Anzenchitai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あの頃へ (40th ANNIVERSARY CONCERT \"Just Keep Going!\" Tokyo Garden Theater)",
+      "artist": "安全地帯",
+      "has_synced": true,
+      "path": "select/02_あの頃へ_(40th_ANNIVERSARY_CONCERT__Just_Keep_Going!__Tokyo_Garden_Theater)_安全地帯.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの頃へ",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_01_あの頃へ_安全地帯.txt"
+    }
+  ]
+}
